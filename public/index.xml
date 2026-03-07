@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Remy&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Remy&#39;s Blog</description>
-    <generator>Hugo -- 0.157.0</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Mar 2026 19:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sat, 07 Mar 2026 19:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h1 id=&#34;搭站第一步&#34;&gt;搭站第一步&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Remy's Blog</title><link>https://remywang22.github.io/</link><description>Recent content on Remy's Blog</description><generator>Hugo -- 0.157.0</generator><language>zh-cn</language><lastBuildDate>Sat, 07 Mar 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://remywang22.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://remywang22.github.io/posts/hello-world/</link><pubDate>Sat, 07 Mar 2026 19:00:00 +0800</pubDate><guid>https://remywang22.github.io/posts/hello-world/</guid><description>&lt;h1 id="搭站第一步"&gt;搭站第一步&lt;/h1&gt;
 &lt;p&gt;谢谢Gemini老师从零教起，总之这里是我的博客！&lt;/p&gt;
 &lt;p&gt;本频道将包括但不限于以下内容：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;日常碎碎念&lt;/strong&gt;&lt;/p&gt;
@@ -22,15 +7,11 @@
 &lt;p&gt;&lt;strong&gt;像素画画图&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;……之类的。&lt;/p&gt;
 &lt;p&gt;要不要把之前 Notion &lt;em&gt;小能大事&lt;/em&gt;的笔记搬过来还在考虑之中，或许吧！&lt;/p&gt;
-&lt;div align=&#34;center&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/elephant.jpg&#34;
-         alt=&#34;附一张在清迈ENP拍的大象们回家的背影，我很喜欢这张照片的氛围，很安心对吧。&#34;/&gt; &lt;figcaption&gt;
-            暮色四合&lt;p&gt;附一张在清迈ENP拍的大象们回家的背影，我很喜欢这张照片的氛围，很安心对吧。&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;img loading="lazy" src="https://remywang22.github.io/images/elephant.jpg"
+alt="附一张在清迈ENP拍的大象们回家的背影，我很喜欢这张照片的氛围，很安心对吧。"/&gt; &lt;figcaption&gt;
+暮色四合&lt;p&gt;附一张在清迈ENP拍的大象们回家的背影，我很喜欢这张照片的氛围，很安心对吧。&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;!-- raw HTML omitted --&gt;</description></item></channel></rss>

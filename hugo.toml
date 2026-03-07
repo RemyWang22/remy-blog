@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://remywang22.github.io/"
 languageCode = "zh-cn"
 title = "Remy's Blog"
 theme = "PaperMod"
@@ -6,5 +6,3 @@ theme = "PaperMod"
 [params]
     author = "Remy"
     defaultTheme = "auto"
-[markup.goldmark.renderer]
-  unsafe = true
