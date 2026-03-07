@@ -46,7 +46,7 @@ draft = false
 
 <div align="center">
 
-{{< figure src="/images/elephant.jpg" title="暮色四合" caption="附一张在清迈ENP拍的大象们回家的背影，我很喜欢这张照片的氛围，很安心对吧。" >}}
+{{< figure src="images/elephant.JPG" title="暮色四合" caption="附一张在清迈ENP拍的大象们回家的背影，我很喜欢这张照片的氛围，很安心对吧。" >}}
 
 </div>
 
