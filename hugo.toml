@@ -5,4 +5,4 @@ theme = "PaperMod"
 
 [params]
     author = "Remy"
-    defaultTheme = "auto"
+    defaultTheme = "dark"
