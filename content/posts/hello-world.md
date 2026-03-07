@@ -44,9 +44,4 @@ draft = false
 
 要不要把之前 Notion *小能大事*的笔记搬过来还在考虑之中，或许吧！
 
-<div align="center">
-
-{{< figure src="images/elephant.JPG" title="暮色四合" caption="附一张在清迈ENP拍的大象们回家的背影，我很喜欢这张照片的氛围，很安心对吧。" >}}
-
-</div>
 
