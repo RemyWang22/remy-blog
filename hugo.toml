@@ -1,0 +1,10 @@
+baseURL = "https://example.org/"
+languageCode = "zh-cn"
+title = "Remy's Blog"
+theme = "PaperMod"
+
+[params]
+    author = "Remy"
+    defaultTheme = "auto"
+[markup.goldmark.renderer]
+  unsafe = true
