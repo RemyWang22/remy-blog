@@ -2,8 +2,6 @@ baseURL = "https://remywang22.github.io/"
 languageCode = "zh-cn"
 title = "Remy's Blog"
 theme = "PaperMod"
-relativeURLs = true
-canonifyURLs = true
 
 [params]
     author = "Remy"
