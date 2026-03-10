@@ -1,8 +1,8 @@
 baseURL = "https://remywang22.github.io/"
+relativeURLs = true
 languageCode = "zh-cn"
 title = "Remy's Blog"
 theme = "PaperMod"
-relativeURLs = true
 
 [params]
     author = "Remy"

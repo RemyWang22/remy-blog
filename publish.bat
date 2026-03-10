@@ -30,6 +30,6 @@ git push origin main
 
 echo ====================================
 echo ✅ 部署完成！
-echo 网址：https://remywang22.github.io/
+echo URL: https://remywang22.github.io/
 echo ====================================
 pause
