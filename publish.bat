@@ -19,7 +19,7 @@ echo [2/3] 正在推送到成品仓库 (RemyWang22.github.io)...
 cd public
 git add .
 git commit -m "%MSG%"
-git push origin main
+git push -f origin main
 
 :: 4. 推送源码到备份仓库
 echo [3/3] 正在备份源码到 remy-blog...
